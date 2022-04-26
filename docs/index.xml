@@ -13,7 +13,8 @@
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://xanul.github.io/my_launchx_blog/posts/post_1/</guid>
-      <description>Here is the space for the next blogpost entry</description>
+      <description>Lately I have found myself using GIT and GitHub much more frequently than in the past, mainly thanks to the projects and exercises that are part of the LaunchX course, in where the MC (Mission Commander of the course 🚀) has made a lot of emphasis in the importance of the constant use of Git and GitHub in our everyday contact with code.
+Personally, since I started learning about GIT, I notice it was a very important tool, especially for collaborative work, but in more recent times I have discovered how important it is for the individual and personal work, not only because it let us have versions and return to them if a bug or an error happens in the development, but mainly (and this is the part I recently pondered that I consider very important) because it allow us to have a history log, written by ourselves, with the description and changes we have made to the project in the time of the commit, this doesn’t seems to be very impactful, but in my recent experience, it has a lot of relevance, because it’s very common for me (and for a lot of people working with code) that if I’m working on a project and I put it on “pause” to work in other developments, when I go back to the project, it’s very hard to remember what was the latest thing that I did to the code, what does the functions do, what is the next step to work, where should I begin!</description>
     </item>
     
     <item>
